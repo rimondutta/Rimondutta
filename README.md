@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rimondutta
+- 👋 Hi, I’m Rimon Dutta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 
